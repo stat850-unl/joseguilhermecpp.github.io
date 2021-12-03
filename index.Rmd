@@ -1,0 +1,14 @@
+---
+title: "Presentation"
+author: "Jose Cesario Pinto"
+date: "12/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[Markdown git deck] (https://github.com/stat850-unl/11-presentation-joseguilhermecpp/blob/master/Slides.pdf)
+[LaTeX git deck] (https://github.com/stat850-unl/11-presentation-joseguilhermecpp/blob/master/Cesario_Jose_Presentation.html)
+[git CV] (https://github.com/stat850-unl/11-presentation-joseguilhermecpp/blob/master/Jose_Cesario_Resume%20(2).pdf)
